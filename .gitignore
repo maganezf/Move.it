@@ -33,6 +33,4 @@ yarn-error.log*
 # vercel
 .vercel
 
-#SCSS/SASS
-*.css.map
-*.scss
+
