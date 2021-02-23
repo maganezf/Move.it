@@ -28,7 +28,7 @@
   background: var(--green);
 }
 
-.experienceBar:hover {
+.experienceBar:hover span.currentExperience {
   opacity: 1;
 }
 
@@ -38,11 +38,7 @@ span.currentExperience {
   top: 12px;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
-  -webkit-transition: opacity 0.3s linear;
-  transition: opacity 0.3s linear;
-}
-
-span.currentExperience:hover {
-  opacity: 1;
+  -webkit-transition: opacity 0.35s linear;
+  transition: opacity 0.35s linear;
 }
 /*# sourceMappingURL=styles.module.css.map */
