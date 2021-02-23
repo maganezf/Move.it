@@ -1,4 +1,4 @@
-import styles from './styles.module.css';
+import styles from '../../styles/components/ExperienceBar/styles.module.css';
 
 const ExperienceBar: React.FC = () => {
   return (
