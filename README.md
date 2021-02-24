@@ -97,7 +97,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 # 🎉 Contributing
 
-First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
+First of all, thank you for being interested in helping out, your time is always appreciated in every way. 💯
 
 Here's some tips:
 
