@@ -23,15 +23,15 @@
   </a>
 </p>
 
+<div align="center">
+
 > Move.it is a project to help people to make more exercises. Developed during NLW(Next Level Week) #04 @Rocketseat 🚀
 
-  <div align="center">
-  <sub>The NLW #4 project. Built with ❤︎ by
-    <a href="https://github.com/maganezf">Maganez Filho</a> and
-    <a href="https://github.com/maganezf/move.it/graphs/contributors">
-      contributors
-    </a>
-  </sub>
+<sub>The NLW #4 project. Built with ❤︎ by
+<a href="https://github.com/maganezf">Maganez Filho</a> and
+<a href="https://github.com/maganezf/move.it/graphs/contributors"> contributors </a>
+</sub>
+
 </div>
 
 # 📌 Table of Contents
