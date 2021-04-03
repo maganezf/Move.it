@@ -34,15 +34,15 @@
 
 </div>
 
-# 📌 Table of Contents
+# :pushpin: Table of Contents
 
-- [Demo Website](#👀-website-demo)
-- [Technologies](#💻-technologies)
-- [Features](#🚀-features)
-- [How to Run](#👷-how-to-run)
-- [Found a bug? Missing a specific feature?](#🐛-issues)
-- [Contributing](#🎉-contributing)
-- [License](#📕-license)
+- [Live Website](#eyes-live-website)
+- [Technologies](#computer-technologies)
+- [Purpose and Features](#dart-purpose-and-features)
+- [How to Run](#construction_worker-how-to-run)
+- [Found a bug? Missing a specific feature?](#bug-issues)
+- [Contributing](#tada-contributing)
+- [License](#closed_book-license)
 
 <h2 align="left"> 📥 Layout available for download at: </h2>
 <p align="center">
@@ -56,11 +56,11 @@
    <img src="./.github/screenshot-2.png" width="400px">
 </div>
 
-# 👀 Website Demo
+# :eyes: Live Website
 
 👉 [Click to open Website Demo](https://move-it-maganezf.vercel.app/)
 
-# 💻 Technologies
+# :computer: Technologies
 
 This project was made using the follow technologies:
 
@@ -69,12 +69,12 @@ This project was made using the follow technologies:
 - [Next.js](https://nextjs.org/)
 - [SASS / SCSS](https://sass-lang.com/)
 
-# 🚀 Features
+# :dart: Purpose and Features
 
 - Pomodoro timer.
 - Help to get up of chair and make some exercise.
 
-# 👷 How to run
+# :construction_worker: How to Run
 
 ```bash
 # Clone Repository
@@ -93,11 +93,11 @@ $ yarn dev
 
 Go to http://localhost:3000/ to see the result.
 
-# 🐛 Issues
+# :bug: Issues
 
 Feel free to **file a new issue** with a respective title and description on the the [Move.it](https://github.com/maganezf/Move.it/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-# 🎉 Contributing
+# :tada: Contributing
 
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. 💯
 
